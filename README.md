@@ -1,4 +1,6 @@
-Created by https://v0.dev/chat
+Wordle game created by https://v0.dev/chat
+
+![Demo](example.gif)
 
 ## Run it
 ```bash
